@@ -52,4 +52,4 @@
     </nav>
 
 
-    <img src="images/titlepicture.png" alt="Title Picture" vertical-align="middle" height="100%" width="100%"/>
+    <img src="images/titlepicture.png" alt="Title Picture" height="100%" width="100%"/>
