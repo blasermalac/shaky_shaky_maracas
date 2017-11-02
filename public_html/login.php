@@ -56,9 +56,9 @@ include '../resources/navigation.php'
       </div>
     </div>
 
-<footer class="footer">
-    Copyright 2017 by Karson and Drew
-</footer>
+<?php
+include '../resources/footer.php'
+?>
 
 </body>
 </html>

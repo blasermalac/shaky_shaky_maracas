@@ -61,5 +61,9 @@ include '../resources/navigation.php'
    </fieldset>
  </form>
  
+<?php
+include '../resources/footer.php'
+?>
+ 
   </body>
   </html>
